@@ -7,7 +7,7 @@ Protube devices support for the game Gazzlers
 
 ## Instalation
 
-1) Download the zip below Gazzlers_Provolver.zip
+1) Download the zip Gazzlers_Provolver.zip
 2) Unzip in the game root folder, the folder containing the GAZZLERS.exe. Overwrite files if asked, especially if you installed the bhaptics mod, you can safely overwrite
 3) turn your protube device on and launch the game 👍 
 
